@@ -1,1 +1,1 @@
-https://worker.brett-schneider.workers.dev
+https://my-worker.brett-schneider.workers.dev
